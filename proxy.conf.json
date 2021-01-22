@@ -1,0 +1,8 @@
+{
+    "/maps/index.php/ws/*":{
+        "target":"https://farmanet.minsal.cl",
+        "secure": false,
+        "changeOrigin": true
+
+    }
+}
